@@ -1,1 +1,1 @@
-Hello I hope this works better! :)
+This is a portfolio. I am using it to demonstrate semantic and accessible HTML.
