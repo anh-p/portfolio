@@ -247,7 +247,7 @@ article {
 .article-img {
     margin-left: 2rem;
     max-width: 350px;
-    object: cover;
+    object-fit: cover;
 }
 
 }
